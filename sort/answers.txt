@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: because is the slow whit the random numbers
+
+sort2 uses: merge sort
+
+How do you know?: because work better with "random50000"
+
+sort3 uses: selection sort
+
+How do you know?: because is not the slowest
